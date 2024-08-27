@@ -1,4 +1,3 @@
-# pinterest-data-pipeline
 # Pinterest Data Pipeline
 
 ## Table of Contents
