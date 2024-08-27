@@ -14,27 +14,27 @@ This project integrates AWS services with Apache Kafka, Spark, Airflow, and Data
 
 ## Installation Instructions
 
-### AWS Setup:
+#### AWS Setup:
 - Configure IAM roles, EC2 instances, S3 buckets, MSK Cluster, API Gateways, MWAA Scheduler, and Kinesis Data Streams.
 
-### Kafka Setup:
+#### Kafka Setup:
 - Create Kafka topics, configure producers and consumers, and set up a REST proxy.
 
-### Databricks Setup:
+#### Databricks Setup:
 - Host Spark on Databricks and set up notebooks with Python and PySpark.
 
-### Airflow Setup:
+#### Airflow Setup:
 - Create a DAG to schedule Databricks Notebooks.
 
 ## Usage Instructions
 
-### Kafka:
+#### Kafka:
 - Use the provided Kafka topics to produce and consume data.
 
-### Spark:
+#### Spark:
 - Run ETL jobs on Databricks using PySpark.
 
-### Airflow:
+#### Airflow:
 - Monitor and manage DAGs to schedule Databricks jobs.
 
 ## File Structure
